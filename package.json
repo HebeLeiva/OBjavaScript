@@ -1,0 +1,12 @@
+{
+  "name": "ejerciciojs1",
+  "version": "1.0.0",
+  "description": "primer ejercicio del curso de JavaScript Básico en Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "saludo": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hebe Leiva",
+  "license": "ISC"
+}
