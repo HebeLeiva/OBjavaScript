@@ -1,1 +1,0 @@
-const edad = prompt("cuantos años tienes?");

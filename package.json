@@ -1,12 +1,23 @@
 {
   "name": "ejerciciojs1",
   "version": "1.0.0",
-  "description": "primer ejercicio del curso de JavaScript Básico en Open Bootcamp",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "saludo": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "Hebe Leiva",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HebeLeiva/OBjavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HebeLeiva/OBjavaScript/issues"
+  },
+  "homepage": "https://github.com/HebeLeiva/OBjavaScript#readme",
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
 }
