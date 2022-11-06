@@ -1,0 +1,17 @@
+{
+  "name": "sesion-13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js",
+    "lint-fix": "eslint --fix ."
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.27.0"
+  }
+}
